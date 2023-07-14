@@ -1,1 +1,2 @@
-git tutoria;
+git tutoria1
+version v1.0
